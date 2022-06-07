@@ -7,6 +7,9 @@ Projeto com tela de login e CRUD, na qual a partir do momento que você cadastra
 
 ## ✅ Demonstração
 <img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/tela_cadastro.PNG" />
+<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/tela_login.PNG" />
+<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/print_crud_front.PNG" />
+<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/crud_front_eidt.PNG" />
 
 ## ⚙ Pré-requisitos
 
@@ -38,6 +41,7 @@ Server
 * @material-ui
 * Axios
 * react-icons
+* Bootstrap
 ### Back-end
 * express
 * mysql
