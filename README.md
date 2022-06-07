@@ -1,5 +1,10 @@
-# CRUD com tela de login
+<h4 align="center">
+  <img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/favicon.png" alt="logo" height="200"/>
+</h4>
 
+<h1 align="center">
+    CRUD com tela de login
+</h1>
 
 ## 💻 Projeto
 
